@@ -1,2 +1,2 @@
-# ProjetoApp-E-diction
-Aplicação mobile cross-plataform em React Native
+# Projeto - App E-diction
+Uma aplicação mobile cross-plataform em React Native.
