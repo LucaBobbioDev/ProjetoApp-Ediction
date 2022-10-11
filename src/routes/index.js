@@ -1,8 +1,8 @@
 import { createStackNavigator } from '@react-navigation/stack';
 
-import { Login } from "../screens/Login";
-import { Home } from "../screens/Home";
-import { Bookmarked } from "../screens/Bookmarked";
+import Login  from "../screens/Login";
+import Home  from "../screens/Home";
+import Bookmarked  from "../screens/Bookmarked";
 
 const Stack = createStackNavigator();
 
