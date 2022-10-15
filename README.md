@@ -4,4 +4,6 @@ O e-Diction é um dicionário eletrônico da lingua inglesa, possui autenticaç�
 
 ### Prototipos de tela
 Os prototipos de tela foram feitos na ferramenta Figma
-![Prototype - App e-Diction](https://user-images.githubusercontent.com/95222294/195188106-aa3baf9b-7b00-4e3c-9ba3-b93496c167b0.jpg)
+
+![e-Diction Mobile Layout Prototype](https://user-images.githubusercontent.com/95222294/195948255-35545879-b8dc-4f07-b308-01f94e867af0.png)
+
